@@ -1,10 +1,10 @@
 const gameNames = [
+  "polytrack",
   "0hh1",
   "0hn0",
   "1",
   "10-minutes-till-dawn",
   "100-player-pong",
-  "1v1lol",
   "2020-game",
   "2048-multitask",
   "2048",

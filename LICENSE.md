@@ -1,7 +1,7 @@
 The MIT License (MIT)
 
-Copyright (c) 2024-present InfinityLoop
-Copyright (c) 2024-present SchoolWiki Team
+Copyright (c) 2026-present SchoolWiki Team
+Copyright (c) 2024 InfinityLoop
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
