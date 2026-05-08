@@ -68,7 +68,7 @@ document.getElementById('backupBtn').addEventListener('click', () => {
   
   const a = document.createElement('a');
   a.href = url;
-  a.download = 'infinitygamer.save';
+  a.download = 'SchoolWiki.save';
   document.body.appendChild(a);
   a.click();
   document.body.removeChild(a);

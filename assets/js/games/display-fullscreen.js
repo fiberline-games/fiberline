@@ -11,7 +11,7 @@ if (searchParam) {
   if (savedTitle) {
     document.title = savedTitle;
   } else {
-    document.title = title + " - InfinityGamer";
+    document.title = title + " - SchoolWiki";
   }
 
   if (sourceNeeded.includes(searchParam)){

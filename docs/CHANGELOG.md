@@ -283,7 +283,7 @@ Removed games with security vulnerabilities
 
 ## v2.3 - Small changes
 
-Just small changes and bug fixes, QOL, etc. I've hit the point at InfinityGamer where there isn't too much I can do anymore.
+Just small changes and bug fixes, QOL, etc. I've hit the point at SchoolWiki where there isn't too much I can do anymore.
 
 5/24/24 - 5/27/24
 

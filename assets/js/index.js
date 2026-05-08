@@ -88,7 +88,7 @@ box.addEventListener('mouseleave', () => {
 
 window.onload = function() {
     // Select the image element
-    const image = document.getElementById('infinitylogo');
+    const image = document.getElementById('swlogo');
     PowerGlitch.glitch(image, {
   "playMode": "always",
   "createContainers": true,
