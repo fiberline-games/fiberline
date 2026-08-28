@@ -60,7 +60,7 @@ function changeTitle(title) {
 
 function redirect(link){
   try {
-    window.top.location.href = link;
+    window.parent.location.href = link;
   } catch (e) {
     window.location.href = link;
   }
