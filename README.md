@@ -1,4 +1,4 @@
-# SchoolWiki
+# FiberLine
 
 <img src="assets/images/logo.png" style="width: 300px; height: auto; float: right;">
 
