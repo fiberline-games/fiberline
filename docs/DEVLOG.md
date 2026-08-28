@@ -12,13 +12,13 @@ I amde this site because a lot of game websites that were unblocked at my school
 
 ### Development
 
-SchoolWiki is built in HTML, CSS, JavaScript, and some SCSS.
+fiberline is built in HTML, CSS, JavaScript, and some SCSS.
 
-At he very start of SchoolWiki I used just straight GitHub to code this site, which is not good for large files and folders, which this site has a lot of. I then moved to GitHub Codespaces, which I stayed at for a while. But it would stop me from coding when I used to much data or time, and it counted both values very inaccurately, forcing me to go on week long breaks occasionally. I bought a gaming laptop, which I wouldd be using for games, coding, and music making. I transferred everything to a USB drive, and on my gaming laptop coded on Visual Studio Code, and then brought the USB drive to school, and coded on my chromebook with a rudimetary text editor (Visual Studio Code was blocked). That is how I am actively developing it now, except for the fact that it's summer break, so I'm only on the gaming laptop.
+At he very start of fiberline I used just straight GitHub to code this site, which is not good for large files and folders, which this site has a lot of. I then moved to GitHub Codespaces, which I stayed at for a while. But it would stop me from coding when I used to much data or time, and it counted both values very inaccurately, forcing me to go on week long breaks occasionally. I bought a gaming laptop, which I wouldd be using for games, coding, and music making. I transferred everything to a USB drive, and on my gaming laptop coded on Visual Studio Code, and then brought the USB drive to school, and coded on my chromebook with a rudimetary text editor (Visual Studio Code was blocked). That is how I am actively developing it now, except for the fact that it's summer break, so I'm only on the gaming laptop.
 
 ### Deployment
 
-The site is deployed statically. I use 3 different services to deploy SchoolWiki. Netlify, Vercel, and GitHub Pages. The only reason I use Netlify is because Vercel is blocked in my school, and GitHub Pages is slow and shuts down my site every month if I use too much data. Netlify is kinda annoying to use, and also limits your data usage. If your users use too much bandwidth (data), then it will extend your bandwidth limit, and then try to charge you 50 bucks for that. I have to migrate accounts sometimes because I really don't have the money to pay that. If you want to make a website, I would use Vercel if you can. There's no bandwidth limit at all, and it's much easier to set up alt links.
+The site is deployed statically. I use 3 different services to deploy fiberline. Netlify, Vercel, and GitHub Pages. The only reason I use Netlify is because Vercel is blocked in my school, and GitHub Pages is slow and shuts down my site every month if I use too much data. Netlify is kinda annoying to use, and also limits your data usage. If your users use too much bandwidth (data), then it will extend your bandwidth limit, and then try to charge you 50 bucks for that. I have to migrate accounts sometimes because I really don't have the money to pay that. If you want to make a website, I would use Vercel if you can. There's no bandwidth limit at all, and it's much easier to set up alt links.
 
 ## Proxy list removal
 

@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2026-present SchoolWiki Team
+Copyright (c) 2026-present FiberLine
 Copyright (c) 2024 InfinityLoop
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

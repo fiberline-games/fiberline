@@ -68,7 +68,7 @@ document.getElementById('backupBtn').addEventListener('click', () => {
   
   const a = document.createElement('a');
   a.href = url;
-  a.download = 'SchoolWiki.save';
+  a.download = 'fiberline.save';
   document.body.appendChild(a);
   a.click();
   document.body.removeChild(a);

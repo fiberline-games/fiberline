@@ -1,5 +1,6 @@
 // List of random texts
 const randomTexts = [
+    "Fast as Fiber optic on a straight line",
     "it's not a bug it's a feature",
     "gabriel looks like a dog",
     "mitochondria is the powerhouse of the cell",
@@ -15,14 +16,10 @@ const randomTexts = [
     "games are fun",
     "always attracting new users with the promise of free games",
     "always at school but never in class",
-    "never in class, always on the wiki",
     "what if i told you that this website is actually a front for a secret society of gamers who are trying to take over the world one game at a time",
     "what do we have next period?",
     "when the teacher says 'go to your next class' but you have no idea where it is",
     "5 minutes until the bell rings and you still have no idea where your next class is",
-    "again, what do we have next period?",
-    "get off the wiki and go to class",
-    "mrs greensmith is a robot sent from the future to monitor students and report back to the government",
     "remember mr. gee says 'be ready respectful and safe' and follow the westleigh way",
     "that isnt sparx is it",
     "go on to lesson 2, and then lesson 3, and then lesson 4, and then lesson 5, and then lesson 6, and then lesson 7, and then lesson 8, and then lesson 9, and then lesson 10",
@@ -32,7 +29,7 @@ const randomTexts = [
     "attendance exrtravaganza next week on friday, make sure to have 100% attendance for the next week",
     "'can i get an on call for gabriel?'",
     "everytime you come into my classroom you are always munching on something, you are always eating",
-    "'cam i go to the toilet?' 'no, you just had breaktime'",
+    "'can i go to the toilet?' 'no, you just had breaktime'",
     "sigma sigma boy",
     "quite frankly i want to build a wall around the school and not let anyone in or out",
     "Wisdom is so sigma"

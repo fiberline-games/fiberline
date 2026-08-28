@@ -11,7 +11,7 @@ if (searchParam) {
   if (savedTitle) {
     document.title = savedTitle;
   } else {
-    document.title = title + " - SchoolWiki";
+    document.title = title + " - fiberline";
   }
 
   if (sourceNeeded.includes(searchParam)){
