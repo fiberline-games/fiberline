@@ -59,7 +59,11 @@ function changeTitle(title) {
 }
 
 function redirect(link){
-  window.location.href = link;
+  try {
+    window.top.location.href = link;
+  } catch (e) {
+    window.location.href = link;
+  }
 }
 
 function toTitleCase(str) {
