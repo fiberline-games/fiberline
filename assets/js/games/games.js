@@ -153,10 +153,12 @@ document.addEventListener("DOMContentLoaded", function () {
     return largestKey;
   }
 
-  const largestKey = findKeyWithLargestNumericValue(filteredValues);
+const largestKey = findKeyWithLargestNumericValue(filteredValues);
+if (largestKey) {
   document
     .getElementById("random-most-played-game-container")
     .appendChild(createGameBox(largestKey, true));
+}
 });
 
 function showCategories() {
