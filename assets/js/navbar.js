@@ -9,17 +9,17 @@ function updateClock() {
 
 setInterval(updateClock, 100);
 
-document.addEventListener('DOMContentLoaded', (event) => {
-    const feedback = document.getElementById('feedback-nav');
+//document.addEventListener('DOMContentLoaded', (event) => {
+ //   const feedback = document.getElementById('feedback-nav');
     
-    feedback.addEventListener('mouseover', () => {
-        feedback.textContent = 'forum';
-    });
+//    feedback.addEventListener('mouseover', () => {
+//        feedback.textContent = 'forum';
+//    });
 
-    feedback.addEventListener('mouseout', () => {
-        feedback.textContent = 'chat_bubble';
-    });
-});
+//    feedback.addEventListener('mouseout', () => {
+//        feedback.textContent = 'chat_bubble';
+//    });
+//});
 
 document.addEventListener('DOMContentLoaded', (event) => {
     const game = document.getElementById('game-nav');
