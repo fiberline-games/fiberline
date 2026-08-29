@@ -2,6 +2,8 @@
 
 <img src="assets/images/logo.png" style="width: 300px; height: auto; float: right;">
 
+We currently have 1 working site link: https://fiberline-games.firebaseapp.com
+
 Infinite fun, unblocked!
 A new game site with over 380 games, many alternate links, and much more!
 
