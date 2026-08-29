@@ -5,8 +5,8 @@
 Infinite fun, unblocked!
 A new game site with over 380 games, many alternate links, and much more!
 
-![GitHub repo size](https://img.shields.io/github/repo-size/fiberline-Game-Site/fiberline)
-![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/fiberline-Game-Site/fiberline/games%2Ffiles?type=dir&label=games)
+![GitHub repo size](https://img.shields.io/github/repo-size/fiberline-games/fiberline)
+![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/fiberline-games/fiberline/games%2Ffiles?type=dir&label=games)
 
 ## Deployment
 
