@@ -34,7 +34,7 @@ function applyFont(fontName) {
     location.reload();
 }
 
-
+/*
 function toggleAutoAboutBlankEmbedder() {
   const itemName = 'autoAboutBlankEmbed';
 
@@ -60,6 +60,8 @@ if (localStorage.getItem('autoAboutBlankEmbed') === 'true') {
 } else {
   document.getElementById('aabeSwitch').checked = false;
 }
+*/
+
 
 document.getElementById('backupBtn').addEventListener('click', () => {
   const localStorageData = JSON.stringify(localStorage);

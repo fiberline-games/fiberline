@@ -54,6 +54,8 @@ window.addEventListener("load", displayRandomText);
 
 
 //about blank embedder
+// Removed
+/*
 let url = window.location.href;
 if (url) {
   var win;
@@ -81,7 +83,7 @@ if (url) {
     }
   };
 }
-
+*/
 if (!localStorage.getItem("visited")) {
     const popup = document.createElement('pop-up');
     popup.textContent = 'This site, and its games, use localStorage to save your progress, and your data. By using this site, you agree to this site using your computers storage.';
